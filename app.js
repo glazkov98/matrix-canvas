@@ -1,8 +1,8 @@
-/** Class representing a matrix. */
+/** Class representing a Matrix. */
 class Matrix {
 
     /**
-     * Create a matrix instance.
+     * Create a Matrix instance.
      * @param {string} selector - CSS selector.
      */
     constructor(selector) {
